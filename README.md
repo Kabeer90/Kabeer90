@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kabeer90
-- 👀 I’m interested in ... software development
-- 🌱 I’m currently learning ... c programming
-- 💞️ I’m looking to collaborate on ... software engineering
+- 👋 Hi, I’m Kabir
+- 👀 I’m interested in ... AI/Machine Learning/Deep Learning and maybe software development
+- 🌱 I’m currently learning ... AI/ML
+- 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ...my email kabirlawanabubakar@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... i like gaming
